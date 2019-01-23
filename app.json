@@ -4,6 +4,8 @@
     "slug": "tinder",
     "privacy": "public",
     "sdkVersion": "32.0.0",
+    "FacebookAppID":"369968310226916",
+    "facebookDisplayName": "Tinder",
     "platforms": [
       "ios",
       "android"
