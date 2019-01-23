@@ -14,7 +14,7 @@ class Profile extends React.Component {
   render() {
     return (
      <View>
-      <Text>Prfile</Text>
+      <Text>Profile</Text>
      </View>
     )
   }
