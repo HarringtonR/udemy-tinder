@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from '../styles'
 
-import { 
-  Text, 
+import {
+  Text,
   View
 } from 'react-native';
 
@@ -14,7 +14,7 @@ class Profile extends React.Component {
   render() {
     return (
      <View>
-      <Text>Profile</Text>
+      <Text>Prfile</Text>
      </View>
     )
   }
