@@ -8,7 +8,7 @@ class Home extends React.Component {
   state = {}
 
   componentWillMount() {
-    this.props.dispatch(login('whats up'))
+    this.props.dispatch(login('FaceBook Login'))
   }
 
   render() {
