@@ -8,3 +8,4 @@ npm-debug.*
 
 firebase.js
 app.json
+aws.js
