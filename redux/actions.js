@@ -55,7 +55,7 @@ export function uploadImages(images){
 
 		    const options = {
 		      keyPrefix: "uploads/",
-		      bucket: "udemytinder",
+		      bucket: aws.bucketName,
 		      region: "us-east-2",
 		      accessKey: aws.accessKey,
 		      secretKey: aws.secretKey,
